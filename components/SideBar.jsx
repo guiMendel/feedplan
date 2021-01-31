@@ -1,0 +1,6 @@
+import styles from "../styles/Calendar.module.css";
+import { VscDiffAdded } from "react-icons/vsc";
+
+export default function SideBar() {
+  return <header></header>;
+}
